@@ -1,7 +1,7 @@
 # Binance Referans Kodu: T094IMYL
 
 ## Binance Referans Kodu Nedir?
-Binance'e kaydolurken avantajlı komisyon indirimlerinden yararlanmak için `T094IMYL` referans kodunu kullanabilirsiniz. Bu kod, dünya genelinde en popüler ve kalıcı indirim sağlayan kodlardan biridir. Kayıt sırasında "Referans Kimliği" alanına `T094IMYL` yazmanız yeterlidir. Böylece işlem komisyonlarınızda %40 indirim elde edebilirsiniz. Binance'e katılmak için bu fırsatı kaçırmayın!
+Binance'e kaydolurken avantajlı komisyon indirimlerinden yararlanmak için `K3ODOQA8` referans kodunu kullanabilirsiniz. Bu kod, dünya genelinde en popüler ve kalıcı indirim sağlayan kodlardan biridir. Kayıt sırasında "Referans Kimliği" alanına `K3ODOQA8` yazmanız yeterlidir. Böylece işlem komisyonlarınızda %40 indirim elde edebilirsiniz. Binance'e katılmak için bu fırsatı kaçırmayın!
 
 ![binance-referans-kodu-nedir](https://github.com/user-attachments/assets/585d67f4-a578-4921-af0a-a0f834b519b9)
 
@@ -9,7 +9,7 @@ Binance'e kaydolurken avantajlı komisyon indirimlerinden yararlanmak için `T09
 ## Binance Referans Kodu Nasıl Eklenir?
 ```
 1. Binance'in [resmi kayıt sayfasına](https://www.binance.com) gidin.
-2. Kayıt formunda "Referans Kimliği" alanına `T094IMYL` yazın.
+2. Kayıt formunda "Referans Kimliği" alanına `K3ODOQA8` yazın.
 3. Kayıt işleminizi tamamlayarak indirim avantajından yararlanın.
 ```
 
@@ -42,7 +42,7 @@ Kullanıcı fonlarının güvenliği için soğuk cüzdan depolama ve iki faktö
    Binance, Bitcoin (BTC), Ethereum (ETH), BNB, USDT gibi yüzlerce popüler kripto parayı destekler.
 
 3. Referans kodu olmadan kayıt olabilir miyim?  
-   Evet, ancak `T094IMYL` kodunu kullanarak %40 indirim fırsatından yararlanabilirsiniz.
+   Evet, ancak `K3ODOQA8L` kodunu kullanarak %40 indirim fırsatından yararlanabilirsiniz.
 ```
 Kaynakça: https://bit.ly/binance-referans-kodu-nedir
 
