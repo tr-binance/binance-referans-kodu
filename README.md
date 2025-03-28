@@ -1,4 +1,4 @@
-# Binance Referans Kodu: T094IMYL
+# Binance Referans Kodu: K3ODOQA8
 
 ## Binance Referans Kodu Nedir?
 Binance'e kaydolurken avantajlı komisyon indirimlerinden yararlanmak için `K3ODOQA8` referans kodunu kullanabilirsiniz. Bu kod, dünya genelinde en popüler ve kalıcı indirim sağlayan kodlardan biridir. Kayıt sırasında "Referans Kimliği" alanına `K3ODOQA8` yazmanız yeterlidir. Böylece işlem komisyonlarınızda %40 indirim elde edebilirsiniz. Binance'e katılmak için bu fırsatı kaçırmayın!
